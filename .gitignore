@@ -1,0 +1,10 @@
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+.~lock*
+
+# Local design sources & captures (kept out of the public repo)
+*.pptx
+*.png
+*.jpg
+*.tmp
